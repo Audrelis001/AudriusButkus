@@ -1,2 +1,2 @@
-# AudriusButkus
+# Audrius Butkus
 pirmas darbas
